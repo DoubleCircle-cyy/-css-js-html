@@ -1,0 +1,67 @@
+header {
+			height: 135px;
+			margin: 0px auto;
+			background-color: pink;
+		}
+		nav{
+			height: 135px;
+			width: 1150px;
+			margin: 0px auto;
+	    }
+	    nav p {
+	    	color: white;
+			font: 50px/140px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    }
+	    #shangpin {
+	    	height: 240px;
+	    	width: 1100px;
+			margin: 0px auto;
+			background-color: #F5F5F5;
+			padding: 20px 20px;
+			box-sizing: border-box;
+	    }
+	    #shangpin a {
+	    	color: gray;
+	    	text-decoration: underline;
+	    	font: 15px/20px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    }
+	    #shangpin a:hover {
+	    	color: orange;
+	    }
+	    .pp {
+	    	display: block;
+	    	width: 800px;
+	    	height: 200px;
+	    	float: right;
+			font: 15px/15px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    }
+	    #jiezhang {
+	    	height: 90px;
+	    	width: 1200px;
+			margin: 0px auto;
+			border: 3px dashed pink;
+			position: fixed;
+			right: 165px;
+			bottom: 0px;
+
+	    }
+	    #jiesuan {
+	    	height: 50px;
+	    	width: 50px;
+	    	background: pink;
+	    	font: 15px/15px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    	position: relative;
+		    left:1100px;
+		    top: 20px;
+	    }
+	    h2 {
+	    	text-align: center;
+	    	font: 15px/25px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    }
+	    #p2 {
+	    	float: right;
+	    	position: relative;
+	    	left: 500px;
+	    	bottom: 180px;
+	    	font: 15px/15px '微软雅黑','黑体','文泉文泉驿正黑体',sans-serif;
+	    }

@@ -1,0 +1,68 @@
+
+.logo {
+	float: left;
+	width: 20%;
+}
+
+.zhong {
+	float: left;
+	width: 60%;
+}
+.you{
+	/*margin-top: 20px;*/
+	float: left;
+	width: 20%;
+}
+li {
+	float: left;
+	list-style: none;
+}
+li a{
+	text-decoration: none;
+	margin-left: 30px;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+}
+.lunbo{
+	
+}
+.menu{
+	align-items: center;
+	clear: both;
+	width: 100%;
+	background-color: pink;
+	height: 80px;
+}
+.menu a{
+	align-items: center;
+	font-size:24px;
+	color: white;
+}
+.menu ul{
+	padding-left: 35%;
+	align-items: center;
+	padding-top: 20px;
+}
+.left{
+	float: left;
+}
+.pro{
+	padding-top: 5px;
+	padding-left: 1%;
+	float: left;
+}
+.pro p{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.hot{
+	margin-left: 10px;
+}
+/*.right{
+	float: right;
+}*/
+.guanyu{
+	clear:both;
+}
